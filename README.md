@@ -1,3 +1,9 @@
+<p align="center">
+<span> Español </span>
+| 
+<a href="https://github.com/asnramos/pyconus2022/blob/main/README.pt-BR.md"> Português </a>
+</p>
+
 ## Charla: Python + VPS Jupyter HUB/Notebook, aprender, enseñar, investigar, trabajar de manera colaborativa, remota y presencial
 * **Fecha y lugar**: 30 Abril 2022. [PyConUS 2022 Salt Lake City, Utah, Estados Unidos](https://us.pycon.org/2022)
 * **Link presentacion:** https://us.pycon.org/2022/schedule/presentation/10/
