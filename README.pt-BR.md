@@ -1,5 +1,7 @@
 <p align="center">
 <a href="https://github.com/asnramos/pyconus2022#readme"> Español</a> 
+|
+<a href="https://github.com/asnramos/pyconus2022/blob/main/README.en-EN.md"> English </a>
 | 
 <span> Português </span>
 </p>
@@ -9,7 +11,8 @@
 * **Data e Lugar**: 30 Abril 2022. [PyConUS 2022 Salt Lake City, Utah, Estados Unidos](https://us.pycon.org/2022)
 * **Link da apresentação:** https://us.pycon.org/2022/schedule/presentation/10/
 * **Vídeo da apresentação:** https://www.youtube.com/watch?v=sq4t8HfIPec&list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl&index=95
-* **Nível**: Iniciante  - **Contexto**: Remoto, Online e Presencial
+* **Nível**: Iniciante  
+* **Contexto**: Remoto, Online e Presencial
 * **Palestrantes**: [Sofía Martin](https://github.com/entrerrianas), [Ariel Ramos](https://us.pycon.org/2022/speaker/profile/11/), [Liliana Hurtado](https://us.pycon.org/2022/speaker/profile/185/), [Enzo Juarez](https://github.com/enzzo19/)
 * **Descrição (Resumo):** 
 
